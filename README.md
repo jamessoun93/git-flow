@@ -1,1 +1,3 @@
-# 우리가 사용하는 Git Flow
+# 사내 Git Flow 가이드용 Repository
+
+![diagram](./git-flow-gracefulrain.png)
